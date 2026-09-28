@@ -44,5 +44,5 @@
 |.              |-- Universal Legal Basis & Consolidated Regulatory Exposure: High regulatory exposure due to unlawful purpose extension, lack of decentralized data siloing, and failure to establish explicit consent mechanisms to prevent state overreach and mass surveillance.
 
 # REFERENCE 
-1. What They Trying To Proof? How to make sandwiches? Or Autocratic Tone with cheap attire or attitude 
+1. What They Trying To Proof? How to make sandwiches? Or Autocratic Tone with cheap attire or attitude with asking for fund that smells like millions dollar perfume 
 https://youtu.be/ziBj9O2kMo0?si=5uqSktgkGxiB7g11
