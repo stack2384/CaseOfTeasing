@@ -81,3 +81,6 @@ Analyzed through the `@authorrashaross` aesthetic, Prime Minister Rahman's speec
 # REFERENCE 
 1. What They Trying To Proof? How to make sandwiches? Or Autocratic Tone with cheap attire or attitude with asking for fund that smells like millions dollar perfume 
 https://youtu.be/ziBj9O2kMo0?si=5uqSktgkGxiB7g11
+
+# SUGGESTED MENU
+1. https://www.youtube.com/watch?v=EcgxV1KLjvI
