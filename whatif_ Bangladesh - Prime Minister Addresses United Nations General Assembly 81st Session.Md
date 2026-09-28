@@ -42,3 +42,7 @@
 |.        |-- Consolidated Global Jurisdictions & Statutory Provisions (EU GDPR • US CCPA • BR LGPD • CN PIPL • IN DPDP • Others): 
 |.              |-- EU GDPR Art. 5 (Purpose Limitation), Art. 35 (DPIA) • US CCPA § 1798.100 • BR LGPD Art. 6 & 10 • CN PIPL Art. 6 & 14 • IN DPDP Act Sec. 6 & 8.
 |.              |-- Universal Legal Basis & Consolidated Regulatory Exposure: High regulatory exposure due to unlawful purpose extension, lack of decentralized data siloing, and failure to establish explicit consent mechanisms to prevent state overreach and mass surveillance.
+
+# REFERENCE 
+1. What They Trying To Proof? How to make sandwiches? Or Autocratic Tone with cheap attire or attitude 
+https://youtu.be/ziBj9O2kMo0?si=5uqSktgkGxiB7g11
