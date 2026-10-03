@@ -25,13 +25,20 @@
 ![Emotional](emotional-range-sub-traits.png)
 ![Extraversion](extraversion-sub-traits.png)
 ![Openness](openness-sub-traits.png)
-![[Personality](personality-portrait.png)
+![Personality](personality-portrait.png)
 
+## Summary
+Taylor Swift - Delicate 
 
 # PESTLE analysis 
 ![Pestle Analysis](2026-10-03T08-44_chart.png)
 
+## Summary 
+Earthshot prize Dhaka as Exoplanet 
+
 # Data Theft Perspective [ Don’t insist on his territory ]
+## Summary 
+Say hello to giant tiny spiders and its web 
 
 # Linguistics or Analogy 
 ## Given texts
