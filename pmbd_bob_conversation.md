@@ -1,10 +1,9 @@
 # Statistical Looks
 🏫 School: School of Science  21%
 
+
 │
-
 ├── 🎓 Program: MA  30%
-
 │
 ├----── 📘 Course: Strategic Management  23%
 │          └─ Dewey Decimal: 658.4
@@ -13,6 +12,7 @@
 │
 └------------── 📊 Estimated Grade Level: High School
                    └─ Flesch-Kincaid score: 10.8
+                   
 
 # Esmated Personality 
 ![Big5](big-five-personality-traits.png)
