@@ -14,6 +14,7 @@
 # Esmated Personality 
 
 # PESTLE analysis 
+[[2026-10-03T08-44_chart.png]]
 
 # Data Theft Perspective [ Don’t insist on his territory ]
 
