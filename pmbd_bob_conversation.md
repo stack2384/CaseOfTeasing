@@ -12,6 +12,14 @@
                    └─ Flesch-Kincaid score: 10.8
 
 # Esmated Personality 
+![Big5](big-five-personality-traits.png)
+![Agreeableness](agreeableness-sub-traits.png)
+![Conscientiousness](conscientiousness-sub-traits.png)
+![Emotional](emotional-range-sub-traits.png)
+![Extraversion](extraversion-sub-traits.png)
+![Openness](openness-sub-traits.png)
+![[Personality](personality-sub-traits.png)
+
 
 # PESTLE analysis 
 ![Pestle Analysis](2026-10-03T08-44_chart.png)
