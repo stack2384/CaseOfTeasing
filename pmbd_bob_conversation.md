@@ -1,16 +1,20 @@
 # Statistical Looks
 🏫 School: School of Science  21%
 
-
 │
+
 ├── 🎓 Program: MA  30%
 │
+
 ├----── 📘 Course: Strategic Management  23%
 │          └─ Dewey Decimal: 658.4
 │
+
 ├--------── 🎯 Specialization: Sustainable Business  63%
 │
+
 └------------── 📊 Estimated Grade Level: High School
+
                    └─ Flesch-Kincaid score: 10.8
                    
 
