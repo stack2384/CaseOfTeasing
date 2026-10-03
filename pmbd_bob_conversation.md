@@ -18,7 +18,7 @@
 ![Emotional](emotional-range-sub-traits.png)
 ![Extraversion](extraversion-sub-traits.png)
 ![Openness](openness-sub-traits.png)
-![[Personality](personality-sub-traits.png)
+![[Personality](personality-portrait.png)
 
 
 # PESTLE analysis 
