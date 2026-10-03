@@ -1,7 +1,10 @@
 # Statistical Looks
 🏫 School: School of Science  21%
+
 │
+
 ├── 🎓 Program: MA  30%
+
 │
 ├----── 📘 Course: Strategic Management  23%
 │          └─ Dewey Decimal: 658.4
